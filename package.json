@@ -1,0 +1,26 @@
+{
+  "name": "permission-manager-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.23.0",
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "@babel/preset-react": "^7.22.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritvik-infobeans/react-permission-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritvik-infobeans/react-permission-manager/issues"
+  },
+  "homepage": "https://github.com/ritvik-infobeans/react-permission-manager#readme"
+}
