@@ -2,7 +2,7 @@
   "name": "permission-manager-package",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "babel src -d dist"
   },
