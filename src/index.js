@@ -1,3 +1,3 @@
-import { PermissionsProvider, setUserRole, setPermissions } from "./permission-manager";
+import { PermissionsProvider, setUserRole, setPermissions, usePermission } from "./permission-manager";
 
-export { PermissionsProvider, setUserRole, setPermissions };
+export { PermissionsProvider, setUserRole, setPermissions, usePermission };
